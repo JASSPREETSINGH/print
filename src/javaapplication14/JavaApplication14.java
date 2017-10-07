@@ -22,10 +22,14 @@ public class JavaApplication14 {
        System.out.println("*||--------||");
        System.out.println(" \"\"         \"\"");
         
-        System.out.print("alap is the best");
-        
-        
-       
+       System.out.println("        *            *********                             ");
+       System.out.println("       * *           *        *                     ");
+       System.out.println("      *   *          *       *                      ");
+       System.out.println("     *******         * ******                            ");
+       System.out.println("    *       *        *       *                      ");
+       System.out.println("   *         *       *        *                     ");
+       System.out.println("  *           *      *********                             ");
+
         
         
         
